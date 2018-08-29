@@ -10,4 +10,10 @@ body {
 h1 {
    color:coral;
 }
+
+img{
+   padding: 25px;
+   boarder: 10px solid green
+   margin : 50px;
+}
     
